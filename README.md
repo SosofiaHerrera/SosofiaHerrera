@@ -1,4 +1,4 @@
-![This is a alt text.](/image/sample.png "This is a sample image.")
+![This is a alt text.](/28.png "This is a sample image.")
 
 # 💫 About Me:
 hi, i'm sof.
