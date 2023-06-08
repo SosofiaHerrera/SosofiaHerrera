@@ -6,7 +6,6 @@
 
 </div>
 
-<img align='right' src="https://media.giphy.com/media/J2UKv6Uh1OwTtRKiWV/giphy.gif" width="230">
 
 ```
 Reseña acerca de mí
@@ -17,6 +16,7 @@ Reseña acerca de mí
     <a href="https://www.instagram.com/sosofiaherrera"><img src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   
 </p>
+    
 ---
 
 
@@ -36,6 +36,5 @@ Reseña acerca de mí
 
  ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=4216CC&vCenter=true&width=435&lines=%3C+Full+Stack+Developer+%2F%3E;%3C+System+Engineer+Student+%2F%3E;%3C+Always+learning+something+new+%2F%3E;%3C++I+turn+bugs+into+features+%2F%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=4216CC&vCenter=true&width=435&lines=%3C+Next+to+be+Full+Stack+Developer+%2F%3E;%3C+Computer+Science+Student+%2F%3E;%3C+Always+learning+something+new+%2F%3E;)](https://git.io/typing-svg)
 
----
