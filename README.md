@@ -9,6 +9,7 @@
 ```
  I create awesome solutions that help make people's daily lives easier, 
  I continuously pursue more skills and I share my knowledge a cross blogs and communities.
+ 
  Now, I am studying computer science at the University of Guadalajara (UDG) and participating in 
  The ICPC International Collegiate Programming Contest (ICPC).
 ```
