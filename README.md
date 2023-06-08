@@ -27,7 +27,7 @@ Reseña acerca de mí
     <p>Mi propia página</p>
 <h4>👨‍💻&nbsp;&nbsp;&nbsp;Education</h4>
     <p>Oracle Next Education, Platzi, TECNOLOchicas</p
-    
+
 #### 📊 GitHub Stats:
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SosofiaHerrera&layout=compact" alt="sosofiaherrera" />
